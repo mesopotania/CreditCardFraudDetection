@@ -1,3 +1,7 @@
+# Claude Code internals
+.claude/
+CLAUDE.md
+
 # Conda environment internals
 bin/
 lib/
@@ -6,6 +10,7 @@ conda-meta/
 share/
 ssl/
 man/
+etc/
 
 # Data files (too large for GitHub)
 data/
